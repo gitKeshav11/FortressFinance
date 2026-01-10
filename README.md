@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=FortressFinance+Banking+Management+System;Backend+Development+Project;Java+%7C+MySQL+%7C+GitHub" />
 </p>
----
 
 # 🏦 FortressFinance – Banking Management System
 
@@ -195,5 +194,6 @@ GitHub: https://github.com/gitKeshav11
 ---
 
 ⭐ If you find this project helpful, please star the repository.
+
 
 
